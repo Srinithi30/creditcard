@@ -34,7 +34,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/Srinithi30/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 Install required dependencies:
 
